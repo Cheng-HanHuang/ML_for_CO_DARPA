@@ -1,0 +1,1 @@
+Slides for DARPA meeting on Sept. 25th, updated from the last DARPA slides by Rongrong. Two pieces of codes are included for running time limitation based baseline testing for CP-SAT, Gurobi, pCQO, pCQO_Newton, and pCQO_LBFGS_Scipy. Will also update the code for reinitialization later.
